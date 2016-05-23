@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelloApp", "MelloApp\MelloApp.csproj", "{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|ARM.Build.0 = Debug|ARM
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|x86.ActiveCfg = Debug|x86
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|x86.Build.0 = Debug|x86
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Debug|x86.Deploy.0 = Debug|x86
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|ARM.ActiveCfg = Release|ARM
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|ARM.Build.0 = Release|ARM
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|ARM.Deploy.0 = Release|ARM
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|x86.ActiveCfg = Release|x86
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|x86.Build.0 = Release|x86
+		{A508E86D-ACD9-4A1D-9EDA-D0B15769057F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

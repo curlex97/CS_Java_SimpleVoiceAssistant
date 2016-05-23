@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+
+
+<category name="клавиатура" description="нажимаем на клавиши" id="0007">
+		<call name="нажми на"></call>
+    <call name="нажми"></call>
+
+
+    <line name="бэкспейс">
+        <linecall name = "бэкспейс" ></linecall >
+        <exec interpreter = "default.dll" script = "kpress ^;" >
+        </exec >
+    </line >
+
+
+
+    <line name="равно">
+        <linecall name = "равно" ></linecall >
+        <exec interpreter = "default.dll" script = "kpress =;" >
+        </exec >
+    </line >
+
+
+		
+     <line name="плюс">
+                <linecall name = "плюс" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress +;" >
+                </exec >
+            </line >
+    
+     <line name="минус">
+                <linecall name = "минус" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress -;" >
+                </exec >
+            </line >
+    
+    
+       <line name="умножить">
+                <linecall name = "умножить" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress *;" >
+                </exec >
+            </line >
+    
+    
+       <line name="разделить">
+                <linecall name = "разделить" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress /;" >
+                </exec >
+            </line >
+      
+      
+            <line name="а">
+                <linecall name = "а" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress а;" >
+                </exec >
+            </line >
+    
+            <line name="б">
+                <linecall name = "б" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress б;" >
+                </exec >
+            </line >
+    
+            <line name="в">
+                <linecall name = "в" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress в;" >
+                </exec >
+            </line >
+    
+            <line name="г">
+                <linecall name = "г" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress г;" >
+                </exec >
+            </line >
+    
+            <line name="д">
+                <linecall name = "д" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress д;" >
+                </exec >
+            </line >
+    
+            <line name="е">
+                <linecall name = "е" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress е;" >
+                </exec >
+            </line >
+    
+            <line name="ё">
+                <linecall name = "ё" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ё;" >
+                </exec >
+            </line >
+    
+            <line name="ж">
+                <linecall name = "ж" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ж;" >
+                </exec >
+            </line >
+    
+            <line name="з">
+                <linecall name = "з" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress з;" >
+                </exec >
+            </line >
+    
+            <line name="и">
+                <linecall name = "и" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress и;" >
+                </exec >
+            </line >
+    
+            <line name="й">
+                <linecall name = "й" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress й;" >
+                </exec >
+            </line >
+    
+            <line name="к">
+                <linecall name = "к" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress к;" >
+                </exec >
+            </line >
+    
+            <line name="л">
+                <linecall name = "л" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress л;" >
+                </exec >
+            </line >
+    
+            <line name="м">
+                <linecall name = "м" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress м;" >
+                </exec >
+            </line >
+    
+            <line name="н">
+                <linecall name = "н" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress н;" >
+                </exec >
+            </line >
+    
+            <line name="о">
+                <linecall name = "о" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress о;" >
+                </exec >
+            </line >
+    
+            <line name="п">
+                <linecall name = "п" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress п;" >
+                </exec >
+            </line >
+    
+            <line name="р">
+                <linecall name = "р" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress р;" >
+                </exec >
+            </line >
+    
+            <line name="с">
+                <linecall name = "с" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress с;" >
+                </exec >
+            </line >
+    
+            <line name="т">
+                <linecall name = "т" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress т;" >
+                </exec >
+            </line >
+    
+            <line name="у">
+                <linecall name = "у" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress у;" >
+                </exec >
+            </line >
+    
+            <line name="ф">
+                <linecall name = "ф" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ф;" >
+                </exec >
+            </line >
+    
+            <line name="х">
+                <linecall name = "х" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress х;" >
+                </exec >
+            </line >
+    
+            <line name="ц">
+                <linecall name = "ц" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ц;" >
+                </exec >
+            </line >
+    
+            <line name="ч">
+                <linecall name = "ч" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ч;" >
+                </exec >
+            </line >
+    
+            <line name="ш">
+                <linecall name = "ш" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ш;" >
+                </exec >
+            </line >
+    
+            <line name="щ">
+                <linecall name = "щ" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress щ;" >
+                </exec >
+            </line >
+    
+            <line name="ъ">
+                <linecall name = "твёрдый знак" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ъ;" >
+                </exec >
+            </line >
+    
+            <line name="ы">
+                <linecall name = "ы" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ы;" >
+                </exec >
+            </line >
+    
+            <line name="ь">
+                <linecall name = "мягкий знак" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ь;" >
+                </exec >
+            </line >
+    
+            <line name="э">
+                <linecall name = "э" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress э;" >
+                </exec >
+            </line >
+    
+            <line name="ю">
+                <linecall name = "ю" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress ю;" >
+                </exec >
+            </line >
+    
+            <line name="я">
+                <linecall name = "я" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress я;" >
+                </exec >
+            </line >
+    
+            <line name="0">
+                <linecall name = "0" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 0;" >
+                </exec >
+            </line >
+    
+            <line name="1">
+                <linecall name = "1" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 1;" >
+                </exec >
+            </line >
+    
+            <line name="2">
+                <linecall name = "2" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 2;" >
+                </exec >
+            </line >
+    
+            <line name="3">
+                <linecall name = "3" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 3;" >
+                </exec >
+            </line >
+    
+            <line name="4">
+                <linecall name = "4" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 4;" >
+                </exec >
+            </line >
+    
+            <line name="5">
+                <linecall name = "5" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 5;" >
+                </exec >
+            </line >
+    
+            <line name="6">
+                <linecall name = "6" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 6;" >
+                </exec >
+            </line >
+    
+            <line name="7">
+                <linecall name = "7" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 7;" >
+                </exec >
+            </line >
+    
+            <line name="8">
+                <linecall name = "8" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 8;" >
+                </exec >
+            </line >
+    
+            <line name="9">
+                <linecall name = "9" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 9;" >
+                </exec >
+            </line >
+    
+            <line name="0">
+                <linecall name = "0" ></linecall >
+                <exec interpreter = "default.dll" script = "kpress 0;" >
+                </exec >
+            </line >
+
+
+	</category>
+
+
+
+	<category name="кухня" description="готовим еду ;)" id="0001">
+		<call name="готовим"></call>
+		<call name="как приготовить"></call>
+		<call name="как готовить"></call>
+		<call name="как состряпать"></call>
+		<line name="печенье">
+		<linecall name="печенье"></linecall>
+		<linecall name="печеньки"></linecall>
+		<linecall name="печенюхи"></linecall>
+			<exec interpreter="default.dll" script="tell I prefer beer.;">
+			  
+			</exec>
+		</line>
+
+
+	</category>
+
+  <category name="разговор" description="поболтать" id="0000">
+    <line name="приветствие">
+      <linecall name="привет"></linecall>
+      <linecall name="здарова"></linecall>
+      <linecall name="здравствуй"></linecall>
+      <linecall name="салют"></linecall>
+      <exec interpreter="default.dll" script="tell Hello, my dear friend;">
+        
+      </exec>
+    </line>
+
+    <line name="как дела">
+      <linecall name="как дела"></linecall>
+      <linecall name="как поживаешь"></linecall>
+      <linecall name="как ты"></linecall>
+      <linecall name="как настроение"></linecall>
+      <exec interpreter="default.dll" script="tell I am fine, you?;">
+        
+      </exec>
+    </line>
+
+    <line name="о себе">
+      <linecall name="расскажи о себе"></linecall>
+      <linecall name="кто ты такая"></linecall>
+      <linecall name="о программе"></linecall>
+      <exec interpreter="default.dll" script="tell My name is Sia. I'm your computer helper;">      
+      </exec>
+    </line>
+
+
+<line name="который час">
+      <linecall name="который час"></linecall>
+      <linecall name="сколько время"></linecall>
+      <linecall name="сколько времени"></linecall>
+      <linecall name="что там на часах"></linecall>
+       <linecall name="время"></linecall>
+       <linecall name="текущее время"></linecall>
+      <exec interpreter="default.dll" script="tell $time;">
+      </exec>
+    </line>
+
+
+<line name="погода">
+      <linecall name="расскажи о погоде"></linecall>
+      <linecall name="что с погодой"></linecall>
+      <linecall name="что за окном"></linecall>
+      <linecall name="погода"></linecall>
+       <linecall name="какая погода"></linecall>
+       <linecall name="как там за окном"></linecall>
+      <exec interpreter="default.dll" script="tell $weather;">
+      </exec>
+    </line>
+
+  </category>
+
+
+    <category name="программы" description="работа с ос" id="0002">
+		<call name="включи"></call>
+		<call name="запусти"></call>
+		<call name="открой"></call>
+		<line name="хром">
+			<linecall name="браузер"></linecall>
+      			<linecall name="хром"></linecall>
+      			<linecall name="гугл хром"></linecall>
+			<exec interpreter="default.dll" script="taskstart chrome.exe">
+			</exec>
+		</line>
+
+      		<line name="блокнот">
+			<linecall name="нотпад"></linecall>
+     			 <linecall name="блокнот"></linecall>
+			<exec interpreter="default.dll" script="taskstart notepad.exe">
+			</exec>
+		</line>
+
+        <line name="калькулятор">
+            <linecall name="калькулятор"></linecall>
+            <exec interpreter="default.dll" script="taskstart C:\Windows\System32\calc.exe">
+            </exec>
+        </line>
+      
+     		<line name="ворд">
+			<linecall name="ворд"></linecall>
+      			<linecall name="офис ворд"></linecall>
+			<exec interpreter="default.dll" script="taskstart winword.exe">
+			</exec>
+		</line>
+
+	</category>
+
+
+		<category name="программы" description="звершение работы с ос" id="0003">
+		<call name="закрой"></call>
+    		<call name="выключи"></call>
+		<line name="хром">
+			<linecall name="браузер"></linecall>
+      			<linecall name="хром"></linecall>
+      			<linecall name="гугл хром"></linecall>
+			<exec interpreter="default.dll" script="taskend chrome.exe">
+			</exec>
+		</line>
+
+      		<line name="блокнот">
+			<linecall name="нотпад"></linecall>
+     			 <linecall name="блокнот"></linecall>
+			<exec interpreter="default.dll" script="taskend notepad.exe">
+			</exec>
+		</line>
+      
+     		<line name="ворд">
+			<linecall name="ворд"></linecall>
+      			<linecall name="офис ворд"></linecall>
+			<exec interpreter="default.dll" script="taskend winword.exe">
+			</exec>
+		</line>
+
+            <line name="блокнот">
+                <linecall name="нотпад"></linecall>
+                <linecall name="блокнот"></linecall>
+                <exec interpreter="default.dll" script="taskend notepad.exe">
+                </exec>
+            </line>
+
+	</category>
+
+
+
+</library>
+

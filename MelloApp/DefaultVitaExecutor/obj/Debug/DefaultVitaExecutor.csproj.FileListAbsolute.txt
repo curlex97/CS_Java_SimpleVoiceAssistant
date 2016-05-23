@@ -1,0 +1,4 @@
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\DefaultVitaExecutor\Bin\Debug\DefaultVitaExecutor.dll
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\DefaultVitaExecutor\Bin\Debug\DefaultVitaExecutor.pdb
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\DefaultVitaExecutor\obj\Debug\DefaultVitaExecutor.dll
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\DefaultVitaExecutor\obj\Debug\DefaultVitaExecutor.pdb

@@ -1,0 +1,57 @@
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\MelloApp.dll
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\MelloApp.pdb
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\AppManifest.xaml
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\Bin\Debug\MelloApp_Debug_AnyCPU.xap
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\App.g.cs
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\MainPage.g.cs
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\MelloApp.g.resources
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\MelloApp.Resources.AppResources.resources
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\MelloApp.csproj.GenerateResource.Cache
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\MelloApp.dll
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\MelloApp.pdb
+C:\Users\Чистяк\Documents\Visual Studio 2013\Projects\MelloApp\MelloApp\obj\Debug\XapCacheFile.xml
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\MelloApp.dll
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\MelloApp.pdb
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\AppManifest.xaml
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\arthur\Desktop\MelloApp\MelloApp\Bin\Debug\MelloApp_Debug_AnyCPU.xap
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\App.g.cs
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\MainPage.g.cs
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\MelloApp.g.resources
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\MelloApp.Resources.AppResources.resources
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\MelloApp.csproj.GenerateResource.Cache
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\MelloApp.dll
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\MelloApp.pdb
+C:\Users\arthur\Desktop\MelloApp\MelloApp\obj\Debug\XapCacheFile.xml
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\MelloApp.dll
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\MelloApp.pdb
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\AppManifest.xaml
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\Bin\Debug\MelloApp_Debug_AnyCPU.xap
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\App.g.cs
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\MainPage.g.cs
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\MelloApp.g.resources
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\MelloApp.Resources.AppResources.resources
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\MelloApp.csproj.GenerateResource.Cache
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\MelloApp.dll
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\MelloApp.pdb
+C:\Users\arthur\Desktop\MothersNotebook\MelloApp\MelloApp\obj\Debug\XapCacheFile.xml
